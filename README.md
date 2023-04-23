@@ -3,7 +3,7 @@
 
 -🎓 I’m currently learning React. 
 
--🚀 My goal is to become Junior Web Developer!
+-🚀 My goal is to become Junior Web Developer.
 <!--
 **martin0626/martin0626** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
