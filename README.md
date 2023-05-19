@@ -1,7 +1,7 @@
 ### Hi there, I'm Martin 👋
--👀 I’m interested in Python, Django, JavaScript and SQL. 
+-👀 I’m working with React, JavaScript, Python and Django. 
 
--🎓 I’m currently learning React. 
+-🎓 I am currently pursying my Masters degree in computer science and working on my own projects.. 
 
 -🚀 My goal is to become Junior Web Developer.
 <!--
