@@ -1,5 +1,5 @@
 ### Hi there, I'm Martin 👋
--👀 I’m working with React, JavaScript and TypeScript. 
+-👀 I’m working with React and NodeJS. 
 
 -🎓 I am currently pursying my Masters degree in computer science and working on my own projects.. 
 
